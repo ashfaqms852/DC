@@ -1,0 +1,176 @@
+[09-Jun-2017 10:21:58 America/Chicago] PHP Fatal error:  Uncaught exception 'Twilio\Exceptions\RestException' with message '[HTTP 400] Unable to create record: The 'To' number 932-269-1810 is not a valid phone number.' in /home/benjohnson614/public_html/api/libs/twilio_api/vendor/twilio/sdk/Twilio/Version.php:85
+Stack trace:
+#0 /home/benjohnson614/public_html/api/libs/twilio_api/vendor/twilio/sdk/Twilio/Version.php(207): Twilio\Version->exception(Object(Twilio\Http\Response), 'Unable to creat...')
+#1 /home/benjohnson614/public_html/api/libs/twilio_api/vendor/twilio/sdk/Twilio/Rest/Api/V2010/Account/MessageList.php(63): Twilio\Version->create('POST', '/Accounts/AC487...', Array, Array)
+#2 /home/benjohnson614/public_html/Ops/DC/SvcProv/serviceProcessing.php(35): Twilio\Rest\Api\V2010\Account\MessageList->create('932-269-1810', Array)
+#3 {main}
+  thrown in /home/benjohnson614/public_html/api/libs/twilio_api/vendor/twilio/sdk/Twilio/Version.php on line 85
+[09-Jun-2017 10:22:13 America/Chicago] PHP Fatal error:  Uncaught exception 'Twilio\Exceptions\RestException' with message '[HTTP 400] Unable to create record: The 'To' number 932-269-1810 is not a valid phone number.' in /home/benjohnson614/public_html/api/libs/twilio_api/vendor/twilio/sdk/Twilio/Version.php:85
+Stack trace:
+#0 /home/benjohnson614/public_html/api/libs/twilio_api/vendor/twilio/sdk/Twilio/Version.php(207): Twilio\Version->exception(Object(Twilio\Http\Response), 'Unable to creat...')
+#1 /home/benjohnson614/public_html/api/libs/twilio_api/vendor/twilio/sdk/Twilio/Rest/Api/V2010/Account/MessageList.php(63): Twilio\Version->create('POST', '/Accounts/AC487...', Array, Array)
+#2 /home/benjohnson614/public_html/Ops/DC/SvcProv/serviceProcessing.php(35): Twilio\Rest\Api\V2010\Account\MessageList->create('932-269-1810', Array)
+#3 {main}
+  thrown in /home/benjohnson614/public_html/api/libs/twilio_api/vendor/twilio/sdk/Twilio/Version.php on line 85
+[09-Jun-2017 10:22:22 America/Chicago] PHP Fatal error:  Uncaught exception 'Twilio\Exceptions\RestException' with message '[HTTP 400] Unable to create record: The 'To' number 932-269-1810 is not a valid phone number.' in /home/benjohnson614/public_html/api/libs/twilio_api/vendor/twilio/sdk/Twilio/Version.php:85
+Stack trace:
+#0 /home/benjohnson614/public_html/api/libs/twilio_api/vendor/twilio/sdk/Twilio/Version.php(207): Twilio\Version->exception(Object(Twilio\Http\Response), 'Unable to creat...')
+#1 /home/benjohnson614/public_html/api/libs/twilio_api/vendor/twilio/sdk/Twilio/Rest/Api/V2010/Account/MessageList.php(63): Twilio\Version->create('POST', '/Accounts/AC487...', Array, Array)
+#2 /home/benjohnson614/public_html/Ops/DC/SvcProv/serviceProcessing.php(35): Twilio\Rest\Api\V2010\Account\MessageList->create('932-269-1810', Array)
+#3 {main}
+  thrown in /home/benjohnson614/public_html/api/libs/twilio_api/vendor/twilio/sdk/Twilio/Version.php on line 85
+[09-Jun-2017 10:22:40 America/Chicago] PHP Fatal error:  Uncaught exception 'Twilio\Exceptions\RestException' with message '[HTTP 400] Unable to create record: The 'To' number 932-269-1810 is not a valid phone number.' in /home/benjohnson614/public_html/api/libs/twilio_api/vendor/twilio/sdk/Twilio/Version.php:85
+Stack trace:
+#0 /home/benjohnson614/public_html/api/libs/twilio_api/vendor/twilio/sdk/Twilio/Version.php(207): Twilio\Version->exception(Object(Twilio\Http\Response), 'Unable to creat...')
+#1 /home/benjohnson614/public_html/api/libs/twilio_api/vendor/twilio/sdk/Twilio/Rest/Api/V2010/Account/MessageList.php(63): Twilio\Version->create('POST', '/Accounts/AC487...', Array, Array)
+#2 /home/benjohnson614/public_html/Ops/DC/SvcProv/serviceProcessing.php(35): Twilio\Rest\Api\V2010\Account\MessageList->create('932-269-1810', Array)
+#3 {main}
+  thrown in /home/benjohnson614/public_html/api/libs/twilio_api/vendor/twilio/sdk/Twilio/Version.php on line 85
+[09-Jun-2017 10:24:27 America/Chicago] PHP Fatal error:  Uncaught exception 'Twilio\Exceptions\RestException' with message '[HTTP 400] Unable to create record: The 'To' number 932-269-1810 is not a valid phone number.' in /home/benjohnson614/public_html/api/libs/twilio_api/vendor/twilio/sdk/Twilio/Version.php:85
+Stack trace:
+#0 /home/benjohnson614/public_html/api/libs/twilio_api/vendor/twilio/sdk/Twilio/Version.php(207): Twilio\Version->exception(Object(Twilio\Http\Response), 'Unable to creat...')
+#1 /home/benjohnson614/public_html/api/libs/twilio_api/vendor/twilio/sdk/Twilio/Rest/Api/V2010/Account/MessageList.php(63): Twilio\Version->create('POST', '/Accounts/AC487...', Array, Array)
+#2 /home/benjohnson614/public_html/Ops/DC/SvcProv/serviceProcessing.php(35): Twilio\Rest\Api\V2010\Account\MessageList->create('932-269-1810', Array)
+#3 {main}
+  thrown in /home/benjohnson614/public_html/api/libs/twilio_api/vendor/twilio/sdk/Twilio/Version.php on line 85
+[09-Jun-2017 10:25:09 America/Chicago] PHP Fatal error:  Uncaught exception 'Twilio\Exceptions\RestException' with message '[HTTP 400] Unable to create record: The 'To' number 932-269-1810 is not a valid phone number.' in /home/benjohnson614/public_html/api/libs/twilio_api/vendor/twilio/sdk/Twilio/Version.php:85
+Stack trace:
+#0 /home/benjohnson614/public_html/api/libs/twilio_api/vendor/twilio/sdk/Twilio/Version.php(207): Twilio\Version->exception(Object(Twilio\Http\Response), 'Unable to creat...')
+#1 /home/benjohnson614/public_html/api/libs/twilio_api/vendor/twilio/sdk/Twilio/Rest/Api/V2010/Account/MessageList.php(63): Twilio\Version->create('POST', '/Accounts/AC487...', Array, Array)
+#2 /home/benjohnson614/public_html/Ops/DC/SvcProv/serviceProcessing.php(35): Twilio\Rest\Api\V2010\Account\MessageList->create('932-269-1810', Array)
+#3 {main}
+  thrown in /home/benjohnson614/public_html/api/libs/twilio_api/vendor/twilio/sdk/Twilio/Version.php on line 85
+[09-Jun-2017 10:26:46 America/Chicago] PHP Fatal error:  Uncaught exception 'Twilio\Exceptions\RestException' with message '[HTTP 400] Unable to create record: The 'To' number 932-269-1810 is not a valid phone number.' in /home/benjohnson614/public_html/api/libs/twilio_api/vendor/twilio/sdk/Twilio/Version.php:85
+Stack trace:
+#0 /home/benjohnson614/public_html/api/libs/twilio_api/vendor/twilio/sdk/Twilio/Version.php(207): Twilio\Version->exception(Object(Twilio\Http\Response), 'Unable to creat...')
+#1 /home/benjohnson614/public_html/api/libs/twilio_api/vendor/twilio/sdk/Twilio/Rest/Api/V2010/Account/MessageList.php(63): Twilio\Version->create('POST', '/Accounts/AC487...', Array, Array)
+#2 /home/benjohnson614/public_html/Ops/DC/SvcProv/serviceProcessing.php(35): Twilio\Rest\Api\V2010\Account\MessageList->create('932-269-1810', Array)
+#3 {main}
+  thrown in /home/benjohnson614/public_html/api/libs/twilio_api/vendor/twilio/sdk/Twilio/Version.php on line 85
+[09-Jun-2017 10:39:47 America/Chicago] PHP Fatal error:  Uncaught exception 'Twilio\Exceptions\RestException' with message '[HTTP 400] Unable to create record: The 'To' number 932-269-1810 is not a valid phone number.' in /home/benjohnson614/public_html/api/libs/twilio_api/vendor/twilio/sdk/Twilio/Version.php:85
+Stack trace:
+#0 /home/benjohnson614/public_html/api/libs/twilio_api/vendor/twilio/sdk/Twilio/Version.php(207): Twilio\Version->exception(Object(Twilio\Http\Response), 'Unable to creat...')
+#1 /home/benjohnson614/public_html/api/libs/twilio_api/vendor/twilio/sdk/Twilio/Rest/Api/V2010/Account/MessageList.php(63): Twilio\Version->create('POST', '/Accounts/AC487...', Array, Array)
+#2 /home/benjohnson614/public_html/Ops/DC/SvcProv/serviceProcessing.php(35): Twilio\Rest\Api\V2010\Account\MessageList->create('932-269-1810', Array)
+#3 {main}
+  thrown in /home/benjohnson614/public_html/api/libs/twilio_api/vendor/twilio/sdk/Twilio/Version.php on line 85
+[09-Jun-2017 10:51:26 America/Chicago] PHP Fatal error:  Uncaught exception 'Twilio\Exceptions\RestException' with message '[HTTP 400] Unable to create record: The 'To' number 932-269-1810 is not a valid phone number.' in /home/benjohnson614/public_html/api/libs/twilio_api/vendor/twilio/sdk/Twilio/Version.php:85
+Stack trace:
+#0 /home/benjohnson614/public_html/api/libs/twilio_api/vendor/twilio/sdk/Twilio/Version.php(207): Twilio\Version->exception(Object(Twilio\Http\Response), 'Unable to creat...')
+#1 /home/benjohnson614/public_html/api/libs/twilio_api/vendor/twilio/sdk/Twilio/Rest/Api/V2010/Account/MessageList.php(63): Twilio\Version->create('POST', '/Accounts/AC487...', Array, Array)
+#2 /home/benjohnson614/public_html/Ops/DC/SvcProv/serviceProcessing.php(35): Twilio\Rest\Api\V2010\Account\MessageList->create('932-269-1810', Array)
+#3 {main}
+  thrown in /home/benjohnson614/public_html/api/libs/twilio_api/vendor/twilio/sdk/Twilio/Version.php on line 85
+[09-Jun-2017 10:52:17 America/Chicago] PHP Fatal error:  Uncaught exception 'Twilio\Exceptions\RestException' with message '[HTTP 400] Unable to create record: The 'To' number 932-269-1810 is not a valid phone number.' in /home/benjohnson614/public_html/api/libs/twilio_api/vendor/twilio/sdk/Twilio/Version.php:85
+Stack trace:
+#0 /home/benjohnson614/public_html/api/libs/twilio_api/vendor/twilio/sdk/Twilio/Version.php(207): Twilio\Version->exception(Object(Twilio\Http\Response), 'Unable to creat...')
+#1 /home/benjohnson614/public_html/api/libs/twilio_api/vendor/twilio/sdk/Twilio/Rest/Api/V2010/Account/MessageList.php(63): Twilio\Version->create('POST', '/Accounts/AC487...', Array, Array)
+#2 /home/benjohnson614/public_html/Ops/DC/SvcProv/serviceProcessing.php(35): Twilio\Rest\Api\V2010\Account\MessageList->create('932-269-1810', Array)
+#3 {main}
+  thrown in /home/benjohnson614/public_html/api/libs/twilio_api/vendor/twilio/sdk/Twilio/Version.php on line 85
+[09-Jun-2017 10:52:56 America/Chicago] PHP Fatal error:  Uncaught exception 'Twilio\Exceptions\RestException' with message '[HTTP 400] Unable to create record: The 'To' number 932-269-1810 is not a valid phone number.' in /home/benjohnson614/public_html/api/libs/twilio_api/vendor/twilio/sdk/Twilio/Version.php:85
+Stack trace:
+#0 /home/benjohnson614/public_html/api/libs/twilio_api/vendor/twilio/sdk/Twilio/Version.php(207): Twilio\Version->exception(Object(Twilio\Http\Response), 'Unable to creat...')
+#1 /home/benjohnson614/public_html/api/libs/twilio_api/vendor/twilio/sdk/Twilio/Rest/Api/V2010/Account/MessageList.php(63): Twilio\Version->create('POST', '/Accounts/AC487...', Array, Array)
+#2 /home/benjohnson614/public_html/Ops/DC/SvcProv/serviceProcessing.php(35): Twilio\Rest\Api\V2010\Account\MessageList->create('932-269-1810', Array)
+#3 {main}
+  thrown in /home/benjohnson614/public_html/api/libs/twilio_api/vendor/twilio/sdk/Twilio/Version.php on line 85
+[09-Jun-2017 11:46:39 America/Chicago] PHP Fatal error:  Uncaught exception 'Twilio\Exceptions\RestException' with message '[HTTP 400] Unable to create record: The 'To' number 932-269-1810 is not a valid phone number.' in /home/benjohnson614/public_html/api/libs/twilio_api/vendor/twilio/sdk/Twilio/Version.php:85
+Stack trace:
+#0 /home/benjohnson614/public_html/api/libs/twilio_api/vendor/twilio/sdk/Twilio/Version.php(207): Twilio\Version->exception(Object(Twilio\Http\Response), 'Unable to creat...')
+#1 /home/benjohnson614/public_html/api/libs/twilio_api/vendor/twilio/sdk/Twilio/Rest/Api/V2010/Account/MessageList.php(63): Twilio\Version->create('POST', '/Accounts/AC487...', Array, Array)
+#2 /home/benjohnson614/public_html/Ops/DC/SvcProv/serviceProcessing.php(35): Twilio\Rest\Api\V2010\Account\MessageList->create('932-269-1810', Array)
+#3 {main}
+  thrown in /home/benjohnson614/public_html/api/libs/twilio_api/vendor/twilio/sdk/Twilio/Version.php on line 85
+[09-Jun-2017 11:48:24 America/Chicago] PHP Fatal error:  Uncaught exception 'Twilio\Exceptions\RestException' with message '[HTTP 400] Unable to create record: The 'To' number 932-269-1810 is not a valid phone number.' in /home/benjohnson614/public_html/api/libs/twilio_api/vendor/twilio/sdk/Twilio/Version.php:85
+Stack trace:
+#0 /home/benjohnson614/public_html/api/libs/twilio_api/vendor/twilio/sdk/Twilio/Version.php(207): Twilio\Version->exception(Object(Twilio\Http\Response), 'Unable to creat...')
+#1 /home/benjohnson614/public_html/api/libs/twilio_api/vendor/twilio/sdk/Twilio/Rest/Api/V2010/Account/MessageList.php(63): Twilio\Version->create('POST', '/Accounts/AC487...', Array, Array)
+#2 /home/benjohnson614/public_html/Ops/DC/SvcProv/serviceProcessing.php(35): Twilio\Rest\Api\V2010\Account\MessageList->create('932-269-1810', Array)
+#3 {main}
+  thrown in /home/benjohnson614/public_html/api/libs/twilio_api/vendor/twilio/sdk/Twilio/Version.php on line 85
+[09-Jun-2017 11:49:03 America/Chicago] PHP Fatal error:  Uncaught exception 'Twilio\Exceptions\RestException' with message '[HTTP 400] Unable to create record: The 'To' number 932-269-1810 is not a valid phone number.' in /home/benjohnson614/public_html/api/libs/twilio_api/vendor/twilio/sdk/Twilio/Version.php:85
+Stack trace:
+#0 /home/benjohnson614/public_html/api/libs/twilio_api/vendor/twilio/sdk/Twilio/Version.php(207): Twilio\Version->exception(Object(Twilio\Http\Response), 'Unable to creat...')
+#1 /home/benjohnson614/public_html/api/libs/twilio_api/vendor/twilio/sdk/Twilio/Rest/Api/V2010/Account/MessageList.php(63): Twilio\Version->create('POST', '/Accounts/AC487...', Array, Array)
+#2 /home/benjohnson614/public_html/Ops/DC/SvcProv/serviceProcessing.php(35): Twilio\Rest\Api\V2010\Account\MessageList->create('932-269-1810', Array)
+#3 {main}
+  thrown in /home/benjohnson614/public_html/api/libs/twilio_api/vendor/twilio/sdk/Twilio/Version.php on line 85
+[09-Jun-2017 12:37:02 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens' in /home/benjohnson614/public_html/Ops/DC/SvcProv/viewService.php:37
+Stack trace:
+#0 /home/benjohnson614/public_html/Ops/DC/SvcProv/viewService.php(37): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/benjohnson614/public_html/Ops/DC/SvcProv/viewService.php on line 37
+[09-Jun-2017 12:37:06 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens' in /home/benjohnson614/public_html/Ops/DC/SvcProv/viewService.php:37
+Stack trace:
+#0 /home/benjohnson614/public_html/Ops/DC/SvcProv/viewService.php(37): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/benjohnson614/public_html/Ops/DC/SvcProv/viewService.php on line 37
+[09-Jun-2017 12:37:09 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens' in /home/benjohnson614/public_html/Ops/DC/SvcProv/viewService.php:37
+Stack trace:
+#0 /home/benjohnson614/public_html/Ops/DC/SvcProv/viewService.php(37): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/benjohnson614/public_html/Ops/DC/SvcProv/viewService.php on line 37
+[09-Jun-2017 12:37:12 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens' in /home/benjohnson614/public_html/Ops/DC/SvcProv/viewService.php:37
+Stack trace:
+#0 /home/benjohnson614/public_html/Ops/DC/SvcProv/viewService.php(37): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/benjohnson614/public_html/Ops/DC/SvcProv/viewService.php on line 37
+[09-Jun-2017 12:37:28 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens' in /home/benjohnson614/public_html/Ops/DC/SvcProv/viewService.php:37
+Stack trace:
+#0 /home/benjohnson614/public_html/Ops/DC/SvcProv/viewService.php(37): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/benjohnson614/public_html/Ops/DC/SvcProv/viewService.php on line 37
+[09-Jun-2017 12:40:20 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens' in /home/benjohnson614/public_html/Ops/DC/SvcProv/viewService.php:37
+Stack trace:
+#0 /home/benjohnson614/public_html/Ops/DC/SvcProv/viewService.php(37): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/benjohnson614/public_html/Ops/DC/SvcProv/viewService.php on line 37
+[09-Jun-2017 12:50:19 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens' in /home/benjohnson614/public_html/Ops/DC/SvcProv/viewService.php:37
+Stack trace:
+#0 /home/benjohnson614/public_html/Ops/DC/SvcProv/viewService.php(37): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/benjohnson614/public_html/Ops/DC/SvcProv/viewService.php on line 37
+[09-Jun-2017 12:52:32 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens' in /home/benjohnson614/public_html/Ops/DC/SvcProv/viewService.php:37
+Stack trace:
+#0 /home/benjohnson614/public_html/Ops/DC/SvcProv/viewService.php(37): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/benjohnson614/public_html/Ops/DC/SvcProv/viewService.php on line 37
+[09-Jun-2017 13:00:20 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens' in /home/benjohnson614/public_html/Ops/DC/SvcProv/viewService.php:37
+Stack trace:
+#0 /home/benjohnson614/public_html/Ops/DC/SvcProv/viewService.php(37): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/benjohnson614/public_html/Ops/DC/SvcProv/viewService.php on line 37
+[09-Jun-2017 13:12:34 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens' in /home/benjohnson614/public_html/Ops/DC/SvcProv/viewService.php:37
+Stack trace:
+#0 /home/benjohnson614/public_html/Ops/DC/SvcProv/viewService.php(37): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/benjohnson614/public_html/Ops/DC/SvcProv/viewService.php on line 37
+[09-Jun-2017 13:20:17 America/Chicago] PHP Fatal error:  Uncaught exception 'Twilio\Exceptions\RestException' with message '[HTTP 400] Unable to create record: The 'To' number 932-269-1810 is not a valid phone number.' in /home/benjohnson614/public_html/api/libs/twilio_api/vendor/twilio/sdk/Twilio/Version.php:85
+Stack trace:
+#0 /home/benjohnson614/public_html/api/libs/twilio_api/vendor/twilio/sdk/Twilio/Version.php(207): Twilio\Version->exception(Object(Twilio\Http\Response), 'Unable to creat...')
+#1 /home/benjohnson614/public_html/api/libs/twilio_api/vendor/twilio/sdk/Twilio/Rest/Api/V2010/Account/MessageList.php(63): Twilio\Version->create('POST', '/Accounts/AC487...', Array, Array)
+#2 /home/benjohnson614/public_html/Ops/DC/SvcProv/serviceProcessing.php(35): Twilio\Rest\Api\V2010\Account\MessageList->create('932-269-1810', Array)
+#3 {main}
+  thrown in /home/benjohnson614/public_html/api/libs/twilio_api/vendor/twilio/sdk/Twilio/Version.php on line 85
+[09-Jun-2017 13:35:15 America/Chicago] PHP Fatal error:  Uncaught exception 'Twilio\Exceptions\RestException' with message '[HTTP 400] Unable to create record: The 'To' number 932-269-1810 is not a valid phone number.' in /home/benjohnson614/public_html/api/libs/twilio_api/vendor/twilio/sdk/Twilio/Version.php:85
+Stack trace:
+#0 /home/benjohnson614/public_html/api/libs/twilio_api/vendor/twilio/sdk/Twilio/Version.php(207): Twilio\Version->exception(Object(Twilio\Http\Response), 'Unable to creat...')
+#1 /home/benjohnson614/public_html/api/libs/twilio_api/vendor/twilio/sdk/Twilio/Rest/Api/V2010/Account/MessageList.php(63): Twilio\Version->create('POST', '/Accounts/AC487...', Array, Array)
+#2 /home/benjohnson614/public_html/Ops/DC/SvcProv/serviceProcessing.php(35): Twilio\Rest\Api\V2010\Account\MessageList->create('932-269-1810', Array)
+#3 {main}
+  thrown in /home/benjohnson614/public_html/api/libs/twilio_api/vendor/twilio/sdk/Twilio/Version.php on line 85
+[09-Jun-2017 13:44:26 America/Chicago] PHP Fatal error:  Uncaught exception 'Twilio\Exceptions\RestException' with message '[HTTP 400] Unable to create record: The 'To' number 932-269-1810 is not a valid phone number.' in /home/benjohnson614/public_html/api/libs/twilio_api/vendor/twilio/sdk/Twilio/Version.php:85
+Stack trace:
+#0 /home/benjohnson614/public_html/api/libs/twilio_api/vendor/twilio/sdk/Twilio/Version.php(207): Twilio\Version->exception(Object(Twilio\Http\Response), 'Unable to creat...')
+#1 /home/benjohnson614/public_html/api/libs/twilio_api/vendor/twilio/sdk/Twilio/Rest/Api/V2010/Account/MessageList.php(63): Twilio\Version->create('POST', '/Accounts/AC487...', Array, Array)
+#2 /home/benjohnson614/public_html/Ops/DC/SvcProv/serviceProcessing.php(35): Twilio\Rest\Api\V2010\Account\MessageList->create('932-269-1810', Array)
+#3 {main}
+  thrown in /home/benjohnson614/public_html/api/libs/twilio_api/vendor/twilio/sdk/Twilio/Version.php on line 85
+[09-Jun-2017 13:49:50 America/Chicago] PHP Fatal error:  Uncaught exception 'Twilio\Exceptions\RestException' with message '[HTTP 400] Unable to create record: The 'To' number 932-269-1810 is not a valid phone number.' in /home/benjohnson614/public_html/api/libs/twilio_api/vendor/twilio/sdk/Twilio/Version.php:85
+Stack trace:
+#0 /home/benjohnson614/public_html/api/libs/twilio_api/vendor/twilio/sdk/Twilio/Version.php(207): Twilio\Version->exception(Object(Twilio\Http\Response), 'Unable to creat...')
+#1 /home/benjohnson614/public_html/api/libs/twilio_api/vendor/twilio/sdk/Twilio/Rest/Api/V2010/Account/MessageList.php(63): Twilio\Version->create('POST', '/Accounts/AC487...', Array, Array)
+#2 /home/benjohnson614/public_html/Ops/DC/SvcProv/serviceProcessing.php(35): Twilio\Rest\Api\V2010\Account\MessageList->create('932-269-1810', Array)
+#3 {main}
+  thrown in /home/benjohnson614/public_html/api/libs/twilio_api/vendor/twilio/sdk/Twilio/Version.php on line 85

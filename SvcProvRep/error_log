@@ -1,0 +1,21 @@
+[20-Mar-2017 08:27:24 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'NoofPetsWalk' at row 1' in /home/benjohnson614/public_html/Ops/DC/SvcProvRep/fetch_data.php:165
+Stack trace:
+#0 /home/benjohnson614/public_html/Ops/DC/SvcProvRep/fetch_data.php(165): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/benjohnson614/public_html/Ops/DC/SvcProvRep/fetch_data.php on line 165
+[23-Mar-2017 10:26:37 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'NoofPetsWalk' cannot be null' in /home/benjohnson614/public_html/Ops/DC/SvcProvRep/fetch_data.php:165
+Stack trace:
+#0 /home/benjohnson614/public_html/Ops/DC/SvcProvRep/fetch_data.php(165): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/benjohnson614/public_html/Ops/DC/SvcProvRep/fetch_data.php on line 165
+[05-May-2017 09:34:48 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'NoofPetsWalk' at row 1' in /home/benjohnson614/public_html/Ops/DC/SvcProvRep/fetch_data.php:186
+Stack trace:
+#0 /home/benjohnson614/public_html/Ops/DC/SvcProvRep/fetch_data.php(186): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/benjohnson614/public_html/Ops/DC/SvcProvRep/fetch_data.php on line 186
+[02-Jun-2017 09:09:30 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'NoofPetsWalk' at row 1' in /home/benjohnson614/public_html/Ops/DC/SvcProvRep/fetch_data.php:186
+Stack trace:
+#0 /home/benjohnson614/public_html/Ops/DC/SvcProvRep/fetch_data.php(186): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/benjohnson614/public_html/Ops/DC/SvcProvRep/fetch_data.php on line 186
+[07-Jul-2017 10:44:11 America/Chicago] PHP Fatal error:  Class 'FrontApp' not found in /home/benjohnson614/public_html/Ops/DC/SvcProvRep/fetch_data.php on line 203
